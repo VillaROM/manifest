@@ -2,7 +2,6 @@
 <manifest>
 
   <!-- VillaROM additions -->
-  <project path="bootable/recovery" name="LineageOS/android_bootable_recovery" remote="github" />
-  <project path="android" name="VillaROM/android" remote="github"/>
+  <project path="vendor/VillaAdditions" name="VillaROM/android_vendor_VillaAdditions" remote="github" revision="rufus" />
   
 </manifest>
